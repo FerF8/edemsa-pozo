@@ -68,6 +68,17 @@ Este repositorio **no incluye** facturas PDF, fotos del medidor ni planillas con
 uv run pytest
 ```
 
+## Publicar en internet (Streamlit Community Cloud)
+
+Así otras personas entran con un link, sin instalar nada.
+
+1. Entrá a [share.streamlit.io](https://share.streamlit.io) e iniciá sesión con GitHub.
+2. **Create app** → elegí el repo `FerF8/edemsa-pozo`, rama `main`, archivo `app.py`.
+3. Deploy. Cuando termine, vas a tener una URL tipo `https://….streamlit.app`.
+4. Compartí ese link. Quien lo abra puede subir su PDF y cargar las lecturas.
+
+Si cambiás el código, hacé `git push` y en Streamlit Cloud usá **Reboot** o esperá el redeploy automático.
+
 ## Licencia
 
 Uso libre para quien comparta un medidor. No está afiliado a EDEMSA.

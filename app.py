@@ -3,9 +3,15 @@
 from __future__ import annotations
 
 import csv
+import sys
 import tempfile
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
+
+# En Streamlit Community Cloud el paquete se importa desde src/ sin instalar el wheel.
+_SRC = Path(__file__).resolve().parent / "src"
+if str(_SRC) not in sys.path:
+    sys.path.insert(0, str(_SRC))
 
 import streamlit as st
 
@@ -138,7 +144,8 @@ def main() -> None:
     st.set_page_config(page_title="Pozo EDEMSA", page_icon="⚡", layout="wide")
     st.title("Pozo compartido · EDEMSA")
     st.caption(
-        "La suma de las tres personas más «Sin asignar» tiene que coincidir con el total de la factura."
+        "La suma de las tres personas más «Sin asignar» tiene que coincidir con el total de la factura. "
+        "Los PDF se procesan solo para calcular el reparto; no se guardan en este sitio."
     )
 
     with st.sidebar:
