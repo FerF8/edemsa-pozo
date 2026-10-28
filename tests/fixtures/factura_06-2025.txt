@@ -1,0 +1,72 @@
+0000001
+A
+Cod. 017 100000010000001
+FACTURA N°: 0003-02028645
+Fecha emisión: Vencimiento actual:
+10/06/2025 26/06/2025
+C.E.S.P.N°: 36224005798146
+Fecha Vto. C.E.S.P.: 14/06/2025 Período Facturado: Próximo Vencimiento:
+MES 06/2025 28/07/2025
+CÓDIGO PAGO ELECTRÓNICO 0000001
+USUARIO EJEMPLO
+CALLE EJEMPLO 100 Domicilio suministro:
+CALLE SUMINISTRO 1
+5500 CIUDAD EJEMPLO MENDOZA
+Id Factura: 0000001-602
+5500 CIUDAD EJEMPLO MENDOZA
+CAT. IVA: Responsable Inscripto N° CUIT: 20000000000
+Tarifa: T Riego Agrícola BT
+Medidor N°: 000001
+Tipo Lectura: Real
+$ 265.591,00 26/06/2025
+Alta 14 a 23hs 75714,90 75752,10 1,00 37,00 21
+01/05/2025 01/06/2025 31 Baja 23 a 14hs 95094,00 95436,20 1,00 342,00 33 1. Conceptos Eléctricos $ 189.901,77
+Reactiva 86608,30 86788,50 1,00 180,00
+2. Conceptos Eléctricos no alcanzados por imp. $ -0,23
+3. Impuestos $ 75.689,46
+4. Conceptos no eléctricos $ 0,00
+TOTAL $ 265.591,00
+Potencia Contratada: 17,000 Máxima Registrada: 33,000 Exceso: 17 Coseno de phi: 0,900
+kW Unidad Consumo P.Unitario Importe
+47
+41 Cargo Comercialización $/per 28.916,16
+Uso de Red kW 17 3.589,886000 61.028,06
+36 Energía Alta kWh 19 171,927000 3.266,61
+30 Energia Alta Excedida kWh 18 171,927000 3.094,69
+24 Energía Baja kWh 176 106,674000 18.774,62
+18 Energia Baja Excedida kWh 166 106,674000 17.707,88
+Subsidio Estado Nacional -9.864,56
+12 Exceso de Potencia kW 17 3.589,886000 61.028,06
+6 Impuestos Provinciales Leyes 6922/8398 IIBB 3,09% 5.697,05
+0 Recargos por mora 1990312 253,20
+06/24 07/24 08/24 09/24 10/24 11/24 12/24 01/25 02/25 03/25 04/25 05/25 06/25 Per.
+Información al usuario
+No existen deudas pendientes. Cuadro Tarifario aplicado
+Res.EPRE N° 111/2025 (31 días)
+Subtotal $ 189.901,77
+Unidad Consumo P.Unitario Importe
+Redondeo -0,55
+Ajuste redondeo factura anterior 0,32
+No se incluyen facturas incluidas en planes de pago. El pago de este recibo no presume la cancelación de facturas anteriores.
+Ingrese a www.edemsa.com para ver el listado de entidades recaudadoras habilitadas y lugares para pago con
+tarjeta de débito.
+Si su suministro se encuentra suspendido, al realizar el pago de su factura recuerde informarlo a través de nuestra
+Oficina Virtual.
+La base de cálculo de la CCCE y la tasa de Fisc. y Control es la facturación total del servicio eléctrico sin impuestos
+ni subsidios, con excepción de los subsidios o compensaciones provinciales específicos que se aplican en esta
+factura. Subtotal $ -0,23
+Codigo de Link Pagos/Identificador Red Banelco: 0000001
+Nacionales Alícuota Base Importe
+I.V.A. Resp. Inscripto 27,00% 189.901,77 51.273,48
+Provinciales
+Tasa fisc.y Control art 64 Ley 6497 1,50% 199.766,33 2.996,49
+CCCE art 74 inc d) Ley 6497- Res MEyA 120/24 6,00% 199.766,33 11.985,98
+Imp.sellos-Art240 CodFiscal-Ley8523-renovación 205.080,83 2.563,51
+Municipales
+CAP Mun.Sist.Sol.-Ley 9.219 art.22 y Res.SSP 91/20 6.870,00 6.870,00
+Subtotal $ 75.689,46
+$ 265.591,00
+26/06/2025
+$ 265.591,00
+TOTAL CONCEPTOS
+ELÉCTRICOS (A) 581900000016022518400000002655910060 $ 0,00

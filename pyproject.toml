@@ -1,0 +1,24 @@
+[project]
+name = "pozo"
+version = "0.1.0"
+description = "Reparte una factura de EDEMSA compartida entre 3 personas"
+requires-python = ">=3.11"
+dependencies = [
+    "pdfplumber",
+    "openpyxl",
+    "streamlit>=1.65.0",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[project.scripts]
+pozo = "pozo.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = [".", "src"]

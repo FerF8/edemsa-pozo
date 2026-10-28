@@ -1,0 +1,5 @@
+persona,alta_inicio,alta_fin,baja_inicio,baja_fin
+Persona 1,100,110,200,220
+Persona 1,110,115,0,0
+Persona 1,0,0,220,250
+Persona 2,0,40,0,30

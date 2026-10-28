@@ -1,0 +1,20 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+
+# Datos personales / de uso real (no publicar)
+*.pdf
+*.jpeg
+*.jpg
+*.png
+luz*.xlsx
+repartos/
+lecturas/*.csv
+!lecturas/ejemplo.csv
+
+# Bloqueos locales de uv no son necesarios en el repo público
+# (uv.lock sí se versiona para builds reproducibles)
